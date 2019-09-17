@@ -1,0 +1,57 @@
+/* -------------------Index Page CSS----------------------------------*/
+
+body{
+  background-color: white;
+}
+#all{
+padding-top: 6%;
+}
+#left{
+}
+#left h1{
+  font-size: 1.4em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+#left a{
+  color: black;
+}
+#left-titles{
+  padding-top: 10%;
+}
+#left h2{
+  font-size: 0.9em;
+  text-transform: uppercase;
+}
+#list{
+  border-left: double 1px black;
+  padding-left: 8%
+}
+#list a{
+  font-size: 1.2em;
+  font-weight: bold;
+  color: black;
+}
+#list li{
+  padding: 3% 0 3%;
+  list-style: none;
+}
+#box-left{
+  position: fixed;
+}
+#box-right{
+  width: 68%;
+  float: right;
+}
+#box-right p{
+  padding: 5% 0% 0% 8%;
+}
+#left-list li{
+  list-style: none;
+}
+#left-list {
+  margin-top: 40px;
+  padding-left: 5px;
+}
+
+/* -------------------Assignment Pages CSS----------------------------------*/
