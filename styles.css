@@ -1,46 +1,71 @@
-/* -------------------Index Page CSS----------------------------------*/
+/* -------------------LEFT----------------------------------*/
 
 body{
-/*  font-family: 'Manjari', sans-serif;*/
 }
 #all{
 padding-top: 6%;
 }
+#box-left{
+  position: fixed;
+}
 #left{
 }
+/* TITLE : KARENA MISTRY */
 #left h1{
   font-size: 1.4em;
+  font-family: 'Inknut Antiqua', serif;
+  font-weight: 700;
   text-transform: uppercase;
-  font-weight: bold;
 }
 #left a{
   color: black;
 }
-#left-titles{
-  padding-top: 10%;
-}
+/* SUBTITLE : WEEKLY JOURNAL ETC. */
 #left h2{
-  font-size: 0.9em;
+  font-size: 1em;
   text-transform: uppercase;
+  font-family: 'IBM Plex Mono', monospace;
 }
+#left-subheadings{
+  padding-top: 2%;
+}
+/* Number List : 1,2,3...etc */
+#number-list li{
+  list-style: none;
+  font-family: 'IBM Plex Mono', monospace;
+  margin-top: 2px;
+}
+#number-list {
+  margin-top: 50px;
+  padding-left: 5px;
+}
+
+
+/* -------------------RIGHT----------------------------------*/
+
+
+
 #list{
-  border-left: double 1px black;
-  padding-left: 8%
+  border-left: double 2px #0066FF;
+  padding-left: 8%;
 }
+/* RIGHT LINKS : WEEK 1,WEEK 2 ETC.  */
 #list a{
-  font-size: 1.2em;
-  font-weight: bold;
+  font-size: 0.85em;
   color: black;
+  font-family: 'IBM Plex Mono', monospace;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-style: oblique;
 }
 #list li{
   padding: 3% 0 3%;
   list-style: none;
 }
+/* BODY : SMALL TEXT */
 #list p{
-  font-size: 1.1em;
-}
-#box-left{
-  position: fixed;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.9em;
 }
 #box-right{
   width: 68%;
@@ -48,14 +73,4 @@ padding-top: 6%;
 }
 #box-right p{
   padding: 5% 0% 0% 8%;
-}
-#left-list li{
-  list-style: none;
-}
-#left-list {
-  margin-top: 40px;
-  padding-left: 5px;
-}
-#link-mini{
-  font-size: 0.3em!;
 }
