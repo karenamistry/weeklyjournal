@@ -1,6 +1,7 @@
 /* -------------------LEFT----------------------------------*/
 
-body{
+html{
+  padding-bottom: 6%;
 }
 #all{
 padding-top: 6%;
