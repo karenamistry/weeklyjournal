@@ -72,5 +72,14 @@ padding-top: 6%;
   float: right;
 }
 #box-right p{
-  padding: 5% 0% 0% 8%;
+  margin: 4%;
+  padding: 0% 0% 0% 8%;
+}
+
+
+/* -------------------Pages----------------------------------*/
+
+#img-hmw{
+  width: 800px;
+  display: block;
 }
