@@ -84,3 +84,8 @@ padding-top: 6%;
   width: 800px;
   display: block;
 }
+.images-animation img{
+  display: block;
+  border: 1px solid lightgrey;
+  margin-top: 5%;
+}
