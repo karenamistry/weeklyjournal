@@ -14,18 +14,19 @@ padding-top: 6%;
 /* TITLE : KARENA MISTRY */
 #left h1{
   font-size: 1.4em;
-  font-family: 'Inknut Antiqua', serif;
-  font-weight: 700;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 900;
+  letter-spacing: 1.2px;
   text-transform: uppercase;
 }
 #left a{
-  color: black;
+  color: #1e5dff;
 }
 /* SUBTITLE : WEEKLY JOURNAL ETC. */
 #left h2{
   font-size: 1em;
   text-transform: uppercase;
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Nunito', sans-serif;
 }
 #left-subheadings{
   padding-top: 2%;
@@ -33,7 +34,7 @@ padding-top: 6%;
 /* Number List : 1,2,3...etc */
 #number-list li{
   list-style: none;
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Nunito', sans-serif;
   margin-top: 2px;
 }
 #number-list {
@@ -47,14 +48,13 @@ padding-top: 6%;
 
 
 #list{
-  border-left: double 2px #0066FF;
   padding-left: 8%;
 }
 /* RIGHT LINKS : WEEK 1,WEEK 2 ETC.  */
 #list a{
-  font-size: 0.85em;
+  font-size: 1em;
   color: black;
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Nunito', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   font-style: oblique;
@@ -65,8 +65,8 @@ padding-top: 6%;
 }
 /* BODY : SMALL TEXT */
 #list p{
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.9em;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1em;
 }
 #box-right{
   width: 68%;
