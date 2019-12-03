@@ -1,6 +1,6 @@
 function changePicture(){
-    document.getElementById("animateStrum").src="images/animation-strum.gif";
+    document.getElementById("animateStrum").src="animation-strum.gif";
 }
 function stillPicture(){
-    document.getElementById("animateStrum").src="images/animation-strum-still.jpg";
+    document.getElementById("animateStrum").src="animation-strum-still.jpg";
 }
