@@ -1,0 +1,125 @@
+html{
+  scroll-behavior: smooth;
+}
+body{
+  font-family: 'Nunito', sans-serif;
+  overflow-x: hidden;
+  color: black;
+}
+.nav{
+  padding: 50px 0px;
+}
+.nav a{
+  color: #1E5DFF;
+}
+.nav a:hover{
+  color: #D2DFFF;
+}
+.block{
+  background-color: #1E5DFF;
+  padding: 200px 0px;
+  text-align: center;
+}
+.block h4{
+  font-size: 5em;
+  font-weight: 100;
+  color: white;
+}
+.logo{
+  padding-bottom: 12px;
+}
+.intro{
+  padding-bottom: 150px;
+}
+.intro h1{
+  text-align: center;
+  font-size: 4em;
+  color: #1E5DFF;
+}
+.intro h3{
+  margin-top: 20px;
+  font-size: 1.2em;
+  text-align: center;
+  font-weight: 200;
+  line-height: 1.4;
+}
+.testimonials{
+  background-color: #f5f5f5;
+  padding: 180px;
+  text-align: center;
+}
+#testimonial-quote{
+  font-size: 2.5em;
+  font-weight: 200;
+  color: black;
+}
+#testimonial-person-name{
+  font-weight: 700;
+  margin-top: 30px;
+  color: #1E5DFF;
+}
+.feature h4{
+  padding-top: 100px;
+  font-weight: 200;
+  font-size: 4em;
+  margin-bottom: 14px;
+}
+.feature p{
+  font-weight: 200;
+  margin-bottom: 30px;
+}
+.image-adjust{
+  margin-right: 150px;
+}
+.side-images{
+  margin-top: 30px;
+}
+.community-image{
+  margin-top: -60px;
+  margin-bottom: 100px;
+}
+.plans{
+  background-color: #f5f5f5;
+  padding: 20px 0px 60px;
+}
+.pay-box{
+  padding: 6%;
+}
+.pay-header{
+  color: #1E5DFF;
+  font-size: 1.5em;
+}
+.pay-box h2{
+  padding: 20px;
+}
+.dollars{
+  margin-top: -110px;
+}
+.dollars h2{
+  font-size: 2.5em;
+  margin-bottom: 15px;
+}
+.btn{
+  border-radius: 100px;
+  background-color: #1E5DFF;
+  border: 0px;
+  padding: 4% 20%;
+}
+.btn:hover{
+  background-color: #D2DFFF;
+}
+.download-section{
+  background-color: #1E5DFF;
+  padding: 100px 0px;
+  text-align: center
+}
+.download-section h3{
+  color: white;
+  padding-bottom: 20px;
+}
+.footer{
+  background-color: black;
+  padding: 30px 0px;
+  text-align: center;
+  color: white;
+}
